@@ -1,0 +1,26 @@
+#include<stdio.h>
+#include<conio.h>
+#include<stdlib.h>
+void main()
+{
+	FILE *source *target;
+	char ch;
+	clrscr();
+	source=fopen("q.txt","r");
+
+	target=("Hello.txt", "w")
+	if (source==NULL)
+		{
+			printf("\nFile Missing");
+			return 0;
+
+		}
+	while ((ch=fgetc(source))!=EOF)
+		{
+			printf("%s", ch);
+
+		}
+
+
+	getch();
+}

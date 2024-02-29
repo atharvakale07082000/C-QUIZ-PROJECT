@@ -1,0 +1,13 @@
+1   Which is the largest desert?`A. Thar `B. Kalahari `C. Sahara `D. Sonoran$C*
+2   In which country the Mount Everest is located in?`A. India `B. Nepal `C. Tibet `D. China$B*
+3   Where is the Gate Way of India?`A. Chennai `B. Mumbai `C. Kolkata `D. New Delhi$B*
+4   Which country is known as the land of rising sun?`A. Russia `B. Japan `C. Korea `D. Holland$B*
+5   Which of the following place is known as the pink city?`A. Mysore `B. Karnataka `C. Hyderabad `D. Jaipur$D*
+6   Which of the following is the largest fresh water lake in India?`A. Pulicat Lake `B. Veeranam Lake `C. Chilka Lake `D. Kolleru Lake$D*
+7   Which is the hottest planet?`A. Earth `B. Venus `C. Mars `D. Jupiter$B*
+8   Who among the following appoints the Prime Minister of India?`A. Lok Sabha `B. Rajya Sabha `C. President of India `D. Chief Justice of Supreme Court$C*
+9   Which of the following game is Novak Djokovic is associated to?`A. Hockey `B. Football `C. Chess `D. Lawn Tennis$D*
+10  Who was the first chairman of the Atomic Energy Commission?`A. Dr. C.V.Raman `B. Dr. H.J.Bhabha `C. Dr. A.P.J. Abdul Kalam `D. Dr. Vickram Sarabhai$B*
+11  Which of the following is the chief ore of Aluminium?`A. Iron `B. Cryolite `C. Bauxite `D. Haematite$C*#
+#
+#
